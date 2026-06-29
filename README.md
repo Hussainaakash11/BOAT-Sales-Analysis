@@ -6,6 +6,13 @@ The goal of this analysis is to identify key drivers of revenue, assess profitab
 
 ---
 
+## Download Dataset from here:
+ ```bash
+   kaggle kernels pull arjunguptadatanalyst/boat-sales-analytics-using-python-arjun-gupta
+   ```
+
+---
+
 ## 📁 Project Structure
 
 The project directory consists of the following key files:
