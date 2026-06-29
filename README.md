@@ -7,9 +7,13 @@ The goal of this analysis is to identify key drivers of revenue, assess profitab
 ---
 
 ## Download Dataset from here:
- ```bash
+ 1.
+    ```bash
    kaggle kernels pull arjunguptadatanalyst/boat-sales-analytics-using-python-arjun-gupta
    ```
+ 2. [Dataset from Kaggle](https://www.kaggle.com/code/arjunguptadatanalyst/boat-sales-analytics-using-python-arjun-gupta)
+
+
 
 ---
 
